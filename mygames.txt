@@ -1,0 +1,21 @@
+Player Hand: 2,10,Total: 12
+Dealer Hand: 10,2,Total: 12
+Player Hand: 2,10,3,3,Total: 18
+Dealer Hand: 10,2,3,3,Total: 18
+Tie
+
+
+Player Hand: 4,9,Total: 13
+Dealer Hand: 11,4,Total: 15
+Player Hand: 4,9,5,Total: 18
+Dealer Hand: 11,4,5,Total: 20
+Dealer Wins
+
+
+Player Hand: 4,2,Total: 6
+Dealer Hand: 6,10,Total: 16
+Player Hand: 4,2,10,Total: 16
+Dealer Hand: 6,10,10,Total: 26
+Player Wins
+
+
